@@ -17,16 +17,16 @@ public class App {
 		Curso[] cursos = {
 
 				//Cursos de primer cuatrimestre
-				new Curso (1,"Matemática Discreta",2,3,0),
-				new Curso (2,"Análisis Matemático 1",2,3,0),
-				new Curso (3,"Álgebra y Geometría Analítica",2,3,0),
-				new Curso (4,"Ingeniería y Sociedad",2,3,0),
+				new Curso (1,"Ingeniería de Software",2,3,0),
+				new Curso (2,"Matemática Superior",2,3,0),
+				new Curso (3,"Ingeniería y Sociedad",2,3,0),
+				new Curso (4,"Desarrollo de Aplicaciones Móviles",2,3,0),
 
 				//Cursos de segundo cuatrimestre
-				new Curso (5,"Algoritmos y Estructuras de Datos",2,2,6),
-				new Curso (6,"Física 1",2,2,6),
-				new Curso (7,"Sistemas y Organizaciones",3,2,3),
-				new Curso (8,"Análisis de Sistemas",2,2,3)
+				new Curso (5,"Bases de Datos SQL",2,2,6),
+				new Curso (6,"Bases de Datos No SQL",2,2,6),
+				new Curso (7,"Sistemas Operativos",3,2,3),
+				new Curso (8,"Probabilidad y Estadística",2,2,3)
 		};
 
 
